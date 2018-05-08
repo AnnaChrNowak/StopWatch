@@ -1,0 +1,51 @@
+.{
+padding: 0px;
+margin: 0px;
+}
+
+#container{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+#table{
+  position: relative;
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 500px;
+  height: 600px;
+}
+
+.stop_watch{
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.time{
+  width: 200px;
+  height: 50px;
+  padding-left: 30px;
+  font-size: 2em;
+}
+
+.button{
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.record_table{
+  margin-top: 30px;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  font-weight: bold;
+  font-size: 1.5em;
+  overflow-y: scroll;
+}
+
+.tite{
+  font-weight: bold;
+  font-size: 1.5em;
+}
